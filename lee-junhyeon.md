@@ -3,19 +3,25 @@ Title: Everywhere at the end of time
 Year: 2016-2019
 Genre: Music
 Disease: Dementia
-ICD: F03.90
+ICD: F00~F03
 ---
 
 # Everywhere at the end of time
 
-_Everywhere at the end of time(2016-2019)_ released in six stages. It is made to let listeners experience the progression of dementia through music. According to James Leyland Kirby, each stage reflects symptoms that commonly appear in dementia in an artistic way.
-This series was created by a British musician, James Leyland Kirby, who worked under the name “The Caretaker.” He made the music by changing ballroom-style songs that were popular in the UK in the 1920s to 1940s. Many of the original songs are about 100 years old, so they often have no copyright. As the stages go on, the melodies become more unclear and start to break down. In an interview, Kirby explained that "the first three stages are flashbacks of clear thought, stuck in loops, which is constant with initial symptoms. From the beginning of Stage 4, there is an inability to have such clear thoughts, so you’re in the moment of pure confusion. Also, some tracks reuse the same samples but add more noise or remove sounds, showing how memory is damaged over time." The song titles, such as “It’s just a burning memory,” “What does it matter how my heart breaks,” and “Temporary Bliss State,” also suggest the loss of memory and emotional changes.
-Reference: https://www.electronicbeats.net/the-caretaker-unsound-leyland-james-kirby
-In this work, music helps listeners experience how memory disappears and how the sense of self becomes unstable in dementia. Even though dementia is not Kirby’s own condition but part of the “The Caretaker” concept, the work expresses dementia as a subjective experience rather than just an objective disease. By turning memory loss and confusion into sound, the music allows listeners to feel and understand the pain of dementia more directly.
+_Everywhere at the end of time(2016-2019)_ is a six-part album cycle released between 2016 and 2019, designed to let listeners experience the progression of dementia through sound.
 
+This [series](https://www.youtube.com/watch?v=wJWksPWDKOc) was created by the English musician James Leyland Kirby (b. 1974-05-09) under the persona The Caretaker. In interviews, Kirby said the project initially began as an idea to give a new release dementia, but he eventually shifted the concept to giving The Caretaker persona dementia itself, turning the project into an exploration of memory, nostalgia, and loss. He also said that his “grandfather” suffered dementia in later life after a series of strokes, and that he tried to approach the subject “with great respect.” The music was built from transformed and rearranged recordings of 1920s–1930s British ballroom music. Kirby described the first stages as “flashbacks of clear thought,” while Stage 4 becomes “the moment of pure confusion,” marking a shift into the post-awareness phase. In that sense, the work is not just about depicting dementia, but about using The Caretaker as a fictional persona to shape a subjective, collapsing experience of memory in sound. [Reference](https://www.electronicbeats.net/the-caretaker-unsound-leyland-james-kirby)
 
-# 시간의 끝 어디에서나
+As dementia progresses, the album reflects the deterioration of memory by repeatedly reintroducing the same samples in altered forms, with added noise, removed instruments, and increasingly fragmented textures. The track titles also reflect this trajectory: titles such as “It’s just a burning memory,” “What does it matter how my heart breaks,” and “Temporary Bliss State” suggest the collapse of memory and emotional change.
+In this work, music serves as a medium through which the disappearance of memory and the instability of the self can be experienced aurally. Especially in the later stages, even the recurring melodies are transformed to the point of being almost unrecognizable, allowing the listener to vicariously experience the anxiety and confusion of gradually losing one’s sense of time and identity. In this respect, the work can be seen not merely as a medical description of dementia, but as an artistic representation of the confusion and loss subjectively experienced by patients. In this regard, referencing the [content of other movies](kim-nakyeong.md) may also be helpful.
 
-2016년부터 2019년까지 6차례에 걸쳐서 공개한 연작 앨범으로, 치매의 진행을 음악으로 경험할 수 있게 표현한 곡들이다. Kirby에 따르면 각 stage를 치매에서 흔히 나타나는 증상들의 예술적 반영이라고 한다.
-이 시리즈는 영국의 음악가 The Caretaker라는 이름으로 활동한 James Leyland Kirby(1974.05.09~)가 1920~40년대에 유행했던 영국 무도회 스타일의 음악을 변형하여 작곡했다. 원곡들 대부분이 100년 가까이 되어 저작권이 없는 경우가 많다. 단계가 진행될수록 멜로디가 점점 흐려지고 무너지는 방식으로 구성된다. Kirby는 인터뷰에서 초반 3개 stage를 '초기 증상에서의 또렷한 생각과 플래시백'에 가깝다고 설명했고, stage 4 이후는 명확한 사고가 어려워지는 혼란으로 이어진다고 말했다. (출처: https://www.electronicbeats.net/the-caretaker-unsound-leyland-james-kirby) 치매가 진행되면서 기억이 손상되는 걸 표현하듯 몇몇 곡들이 동일한 샘플에 노이즈가 더 끼거나 악기, 음이 빠지는 등의 변형을 거쳐서 다시 수록되어있다. 곡 제목들도 이런 흐름을 반영하는데, "It's just a burning memory", "What does it matter how my heart breaks", "Temporary Bliss State" 같은 제목이 기억의 붕괴와 정서적 변화를 암시한다.
-이 작품에서 음악은 치매의 기억이 지워지고 자아가 흔들리는 과정을 청각적으로 체험하게 하는 매개가 된다고 생각한다. 비록 치매는 Kirby 본인이 아니라, The Caretaker 페르소나에 부여된 설정이고, 설정 안에서 본 자신의 해석이라고 했지만, 치매라는 객관적 현상을 기억 상실과 혼란의 주관적 체험을 소리로 형상화하여 치매의 고통을 감각적으로 공감할 수 있게 되는 것 같다.
+<img src="./lee-junhyeon.png" alt="AI-generated image of Everywhere at the end of time" width="50%" />
+
+# 시간의 끝 어디에서나 (*Everywhere at the end of time*)
+
+_Everywhere at the end of time(2016-2019)_ 는 2016년부터 2019년까지 6차례에 걸쳐서 공개된 연작 앨범으로, 치매가 진행되는 과정을 음악적으로 체험하게 하는 작품이다.
+
+이 [시리즈](https://www.youtube.com/watch?v=wJWksPWDKOc)는 영국의 음악가 제임스 레이랜드 커비(James Leyland Kirby, 1974-05-09~)가 The Caretaker라는 페르소나를 내세워 제작했다. Kirby는 인터뷰에서 이 프로젝트가 처음에는 새로운 작품에 치매를 부여하려는 발상에서 출발했지만, 결국 The Caretaker라는 페르소나 자체에 치매를 설정하는 방향으로 확장되어, 이후 기억, 향수, 상실을 탐구하는 프로젝트로 발전했다고 말했다. 또한 그는 자신의 할아버지가 여러 차례의 뇌졸중 이후 말년에 치매를 겪었으며, 이 주제를 신중한 태도로 다루고자 했다고 밝혔다. 음악은 1920~30년대 영국 무도회 음악을 변형하고 재구성한 음원을 바탕으로 만들어졌다. Kirby는 초반 단계들을 “또렷한 사고의 회상(flashbacks of clear thought)”에 가까운 상태라고 설명했고, Stage 4는 “순수한 혼란의 순간(the moment of pure confusion)”으로 넘어가며 인식 이후(post-awareness) 단계에 들어간다고 말했다. 그런 의미에서 이 작품은 단순히 치매를 묘사하는 데 그치지 않고, The Caretaker라는 허구적 페르소나를 통해 기억이 무너져 가는 주관적 경험을 소리로 형상화한 작업이라고 할 수 있다. [출처](https://www.electronicbeats.net/the-caretaker-unsound-leyland-james-kirby)
+
+치매가 진행되며 기억이 손상되는 과정을 반영하듯, 몇몇 곡들은 동일한 샘플을 바탕으로 노이즈가 더해지거나 악기와 음이 빠지는 방식으로 변형되어 반복 수록되어 있다. 곡 제목들도 이런 흐름을 반영하는데, "It's just a burning memory", "What does it matter how my heart breaks", "Temporary Bliss State" 같은 제목이 기억의 붕괴와 정서적 변화를 암시한다.
+이 작품에서 음악은 치매 환자의 기억이 지워지고 자아가 흔들리는 과정을 청각적으로 체험하게 하는 매개가 된다고 생각한다. 특히 후반부로 갈수록 반복되던 멜로디조차 거의 알아들을 수 없게 변형되면서, 청자는 점차 시간 감각과 정체성을 잃어가는 불안과 혼란을 간접적으로 경험하게 되는 것 같다. 이러한 점에서 이 작품은 치매를 단순히 의학적 증상으로 설명하는 것이 아니라, 환자가 주관적으로 경험하는 혼란과 상실을 예술적으로 표현한 사례라고 볼 수 있다. 이와 관련해서, 사랑하는 사람이 치매로 인해 추억과 감정을 잃어가는 서사의 [다른 영화의 내용](kim-nakyeong.md)도 참조하면 도움이 될 것이다.
